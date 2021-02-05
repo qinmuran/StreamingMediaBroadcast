@@ -34,7 +34,7 @@
 
 ## 系统框架
 
-![iamge](README.assets/项目框架.png)
+![image]()
 
 
 
@@ -73,7 +73,10 @@
 desc.text是当前频道的描述信息，如ch1中的desc.text中的内容为：
 
 Pure Music:
+
 (1) Bosques de mi Mente
+
 (2) John Dreamer-Brotherhood
+
 (3) Nightcall Dreamerhour-Dead V
 
