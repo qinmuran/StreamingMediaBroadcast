@@ -34,7 +34,7 @@
 
 ## 系统框架
 
-![](./项目框架.png)
+![iamge](README.assets/项目框架.png)
 
 
 
