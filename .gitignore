@@ -1,0 +1,15 @@
+# client文件夹
+/client/client
+/client/*.o
+
+# server文件夹
+/server/medialib.o
+
+/server/mytbf.o
+
+/server/server
+/server/server.o
+
+/server/thr_channel.o
+
+/server/thr_list.o
